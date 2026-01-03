@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Google Credentials (NEVER COMMIT THESE)
+credentials.json
+token.json
+client_secret*.json
+
+# Audio temp files
+*.wav
+*.mp3
+*.oga
+*.ogg
+
+# IDEs
+.vscode/
+.idea/
